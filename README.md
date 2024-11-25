@@ -3,9 +3,13 @@
 <div align=left>
 <h1>💻OSS 수강생</h1>
 </div>
+<h2> 🔥 I'm interesting in...</h2>
+<div> -Spring </div>
+<div> -Android </div>
+<div> -Overall App Development </div>
 
  <div align=left>
-	 <p>📚 Study </p>
+	 <h2>📚 Study </h2>
 </div>
 
 <div align="left">
@@ -19,7 +23,7 @@
 </div>
 <br>
 <div align=left>
-	<p>🛠 Tools </p>
+	<h2>🛠 Tools </h2>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
